@@ -1,0 +1,6 @@
+== README
+
+
+
+
+A website made in Ruby and Rails for the gta 5 modding community.

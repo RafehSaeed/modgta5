@@ -7,6 +7,8 @@ class CreateItems < ActiveRecord::Migration
       t.integer :Item_Rating
 
       t.timestamps null: false
+
+      
     end
   end
 end
